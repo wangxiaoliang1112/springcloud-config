@@ -1,1 +1,2 @@
-version: pro 1
+config:
+  info: "master branch,springcloud-config/config-pro.yml version=1" 
